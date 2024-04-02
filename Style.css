@@ -1,10 +1,10 @@
-/* Reset some styles */
+
 body, div, h1, h2, h3, p, ul, li {
     margin: 0;
     padding: 0;
 }
 
-/* Style for the navbar */
+
 nav {
     background-color: #333;
     overflow: hidden;
@@ -34,7 +34,7 @@ nav .menu li {
     padding: 0 10px;
 }
 
-/* Style for the home section */
+
 #home {
     height: 100vh;
     display: flex;
@@ -65,7 +65,7 @@ nav .menu li {
     margin-bottom: 20px;
 }
 
-/* Style for the gallery section */
+
 #gallery {
     display: flex;
     justify-content: center;
@@ -84,7 +84,7 @@ nav .menu li {
     margin: 0 20px;
 }
 
-/* Style for the blog section */
+
 #blog {
     padding: 50px 0;
     background-color: #f5f5f5;
@@ -113,7 +113,7 @@ nav .menu li {
     margin-bottom: 20px;
 }
 
-/* Style for the contact section */
+
 #contact {
     background-color: #333;
     color: white;
@@ -141,7 +141,7 @@ nav .menu li {
     margin-bottom: 10px;
 }
 
-/* Style for the copyright section */
+
 #copyright {
     background-color: #333;
     color: white;
